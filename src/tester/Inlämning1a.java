@@ -2,18 +2,15 @@ package tester;
 
 import java.util.Scanner;
 
-public class Inlämningar {
+public class Inlämning1a {
 
 	public static void main(String[] args) {
 		
 	System.out.println("Inlämning 1.a  \n");
 	
 	Scanner scan = new Scanner(System.in);
-	String ord = new String ();
-	
+	String ord;
 	String ord2;
-	
-	int ord1;
 
 	
 	
@@ -29,9 +26,7 @@ public class Inlämningar {
 	
 	System.out.println(langd.length());
 	
-	
-	System.out.println (" \n Uppgift 1.b \n");
-	
+	scan.close();
 	
 
 	}

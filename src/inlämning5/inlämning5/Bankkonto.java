@@ -1,3 +1,4 @@
+package inlämning5.inlämning5;
 import java.util.Scanner;
 
 public class Bankkonto {

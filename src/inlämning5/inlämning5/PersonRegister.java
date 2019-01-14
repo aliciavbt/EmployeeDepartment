@@ -1,3 +1,4 @@
+package inlämning5.inlämning5;
 import java.util.ArrayList;
 public class PersonRegister {
 
@@ -17,7 +18,7 @@ public class PersonRegister {
 	
 	public Person findPerson(String pNbr) {
 		for(Person p: personer){
-			if(p.getpNbr().equals(pNbr)) return p;
+			if(p.getPNbr().equals(pNbr)) return p;
 			
 	}
 		

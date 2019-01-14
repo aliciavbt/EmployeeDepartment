@@ -9,7 +9,7 @@ public class Inlämning1b {
 		System.out.println("Inlämning 1.b  \n");
 		
 		Scanner scan = new Scanner(System.in);
-		String namn = new String ();
+		String namn;
 		
 		double timlön;
 		int timmar;
@@ -33,5 +33,7 @@ public class Inlämning1b {
 		System.out.println(namn + " du tjänade " + summa + " kr förra veckan");
 		
 	}
+	
+	
 
 }

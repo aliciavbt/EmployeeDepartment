@@ -13,10 +13,10 @@ public class Inlämning2 {
 	
 	System.out.println ("Skriv in det första talet: ");
 	tal1 = scan.nextInt ();
-	
 	 
 	while (tal1 !=0) {
 		
+
 			
 				System.out.println ("Skriv in det andra talet: ");
 				tal2 = scan.nextInt ();
@@ -32,11 +32,11 @@ public class Inlämning2 {
 				
 				System.out.println ("Skriv in det första talet: ");
 				tal1 = scan.nextInt ();
-	
 			} 
 		
 			System.out.println ("Tackar!");
 			
+			scan.close();
 			
 		}
 	}

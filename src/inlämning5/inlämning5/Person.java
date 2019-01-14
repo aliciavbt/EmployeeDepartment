@@ -1,4 +1,5 @@
-import java.util.*;
+package inlämning5.inlämning5;
+import java.util.ArrayList;
 public class Person {
 	
 	private String name;
