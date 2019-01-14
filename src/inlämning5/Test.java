@@ -1,4 +1,4 @@
-package inlämning5.inlämning5;
+package inlämning5+6;
 public class Test {
 
 	public static void main(String[] args) {
